@@ -1,0 +1,10 @@
+{
+  "name": "Guardian Smart Hospital v4.5",
+  "description": "Sistema Inteligente de Engenharia Clínica com conformidade ISO 13485, Preditiva por IA e monitoramento IoT.",
+  "version": "2.5.0",
+  "author": "José Carlos Santos Silva",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
